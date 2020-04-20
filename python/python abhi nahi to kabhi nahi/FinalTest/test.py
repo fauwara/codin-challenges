@@ -34,7 +34,6 @@ stringsList = [None] * listLength
 
 for i in range(listLength):
 	stringPositions.append(int(input('')))
-print(stringPositions)
 
 for i in range(listLength):
 	string = input('')
